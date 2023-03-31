@@ -5,7 +5,7 @@
 const config = {
   title: "KingdomsX",
   tagline: "Dinosaurs are cool",
-  url: "https://manaway.github.io",
+  url: "https://manaway.github.io/kingdoms/",
   baseUrl: "/kingdoms",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",

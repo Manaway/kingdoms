@@ -3,15 +3,15 @@
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: "DeltaDocs",
+  title: "KingdomsX",
   tagline: "Dinosaurs are cool",
-  url: "https://deltahostcloud.github.io",
+  url: "https://kingdomstesting.github.io",
   baseUrl: "/",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
   favicon: "img/favicon.ico",
   organizationName: "DeltaHostCloud",
-  projectName: "deltahostcloud.github.io",
+  projectName: "kingdomstesting.github.io",
   presets: [
     [
       "classic",

@@ -5,12 +5,11 @@
 const config = {
   title: "KingdomsX",
   tagline: "Dinosaurs are cool",
-  url: "https://kingdomsw.github.io",
-  baseUrl: "/docs",
+  url: "https://manaway.github.io",
+  baseUrl: "/",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
   favicon: "img/favicon.ico",
-  organizationName: "DeltaHostCloud",
   projectName: "kingdomstesting.github.io",
   presets: [
     [

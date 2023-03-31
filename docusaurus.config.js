@@ -5,8 +5,8 @@
 const config = {
   title: "KingdomsX",
   tagline: "Dinosaurs are cool",
-  url: "https://kingdomstesting.github.io",
-  baseUrl: "/",
+  url: "https://kingdomsw.github.io",
+  baseUrl: "/docs",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
   favicon: "img/favicon.ico",
